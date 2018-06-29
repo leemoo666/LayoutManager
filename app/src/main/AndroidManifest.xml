@@ -23,6 +23,10 @@
         </activity>
 
         <activity android:name=".touchhelp.TouchHelpActivity">
+
+        </activity>
+
+        <activity android:name=".animator.ItemAnimatorActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
